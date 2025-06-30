@@ -29,8 +29,8 @@ An interactive Streamlit web app that recommends movies based on your favorite t
 
 ## Tech Stack
 
-- Python 🐍
-- Streamlit 🌐
+- Python
+- Streamlit
 - scikit-learn
 - Pandas
 - Requests
