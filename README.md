@@ -6,7 +6,7 @@ An interactive Streamlit web app that recommends movies based on your favorite t
 
 ## Demo Screenshot
 
-![App Screenshot](./screenshot.png)  
+![App Screenshot](./web_app.png)  
 
 ---
 
